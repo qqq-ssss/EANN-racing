@@ -1,9 +1,5 @@
 # EANN-racing
 
-![](1.gif)
-
-![](2.gif)
-
 ### Idea
 In this simulation 2D cars are learning to complete the track using evolutionary neural networks.
 
@@ -27,3 +23,11 @@ LMB -- choosing car as parent
 N -- new epoch (at least 1 car should be chosen)
 S -- save current model to file
 L -- load model from file
+
+### Simulation
+
+##### Epoch 3:
+![](1.gif)
+
+##### Epoch 10:
+![](2.gif)
