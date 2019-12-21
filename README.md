@@ -1,5 +1,9 @@
 # EANN-racing
 
+![](1.gif)
+
+![](2.gif)
+
 ### Idea
 In this simulation 2D cars are learning to complete the track using evolutionary neural networks.
 
